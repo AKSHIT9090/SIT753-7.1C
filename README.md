@@ -1,3 +1,3 @@
 # SIT753-7.1C
 
-Jenkins pipeline integration completed successfully.
+Jenkins pipeline integration completed.
